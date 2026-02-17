@@ -319,6 +319,6 @@ Livre para uso pessoal e modificações!
 
 ---
 
-**Desenvolvido com ❤️ usando Flask + Supabase**
+**Desenvolvido por Jandersson F de Paula - ConsultyD usando Flask + Supabase**
 
 🎉 **Aproveite seu novo sistema de controle financeiro!**
